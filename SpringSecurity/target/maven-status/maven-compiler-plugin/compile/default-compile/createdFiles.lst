@@ -1,0 +1,5 @@
+com/springsecurity/controllers/config/SecurityWebApplicationInitializer.class
+com/springsecurity/controllers/config/MySpringMvcDispatcherServletInitializer.class
+com/springsecurity/controllers/config/DemoAppConfig.class
+com/springsecurity/controllers/MyController.class
+com/springsecurity/controllers/config/SpringSecurityConfig.class

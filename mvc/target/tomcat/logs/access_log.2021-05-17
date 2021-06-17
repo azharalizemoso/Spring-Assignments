@@ -1,0 +1,16 @@
+0:0:0:0:0:0:0:1 - - [17/May/2021:04:10:27 +0530] "GET / HTTP/1.1" 200 52 http-bio-8080-exec-1 407
+0:0:0:0:0:0:0:1 - - [17/May/2021:04:11:07 +0530] "GET / HTTP/1.1" 200 50 http-bio-8080-exec-1 405
+0:0:0:0:0:0:0:1 - - [17/May/2021:04:11:42 +0530] "GET / HTTP/1.1" 200 50 http-bio-8080-exec-1 80
+0:0:0:0:0:0:0:1 - - [17/May/2021:04:11:45 +0530] "GET / HTTP/1.1" 200 50 http-bio-8080-exec-2 7
+0:0:0:0:0:0:0:1 - - [17/May/2021:04:11:51 +0530] "GET /hello HTTP/1.1" 404 949 http-bio-8080-exec-3 6
+127.0.0.1 - - [17/May/2021:04:12:25 +0530] "GET / HTTP/1.1" 200 50 http-bio-8080-exec-5 5
+127.0.0.1 - - [17/May/2021:04:12:25 +0530] "GET /favicon.ico HTTP/1.1" 404 949 http-bio-8080-exec-6 2
+127.0.0.1 - - [17/May/2021:04:42:33 +0530] "GET / HTTP/1.1" 200 50 http-bio-8080-exec-1 143
+127.0.0.1 - - [17/May/2021:04:42:34 +0530] "GET /favicon.ico HTTP/1.1" 404 949 http-bio-8080-exec-2 10
+127.0.0.1 - - [17/May/2021:04:42:39 +0530] "GET /form HTTP/1.1" 404 949 http-bio-8080-exec-4 3
+127.0.0.1 - - [17/May/2021:04:42:53 +0530] "GET /showForm HTTP/1.1" 200 205 http-bio-8080-exec-5 589
+127.0.0.1 - - [17/May/2021:04:42:58 +0530] "GET /formSubmitted?usrName=Azhar HTTP/1.1" 200 60 http-bio-8080-exec-6 74
+127.0.0.1 - - [17/May/2021:04:51:58 +0530] "GET /showForm HTTP/1.1" 200 205 http-bio-8080-exec-1 80
+127.0.0.1 - - [17/May/2021:04:52:08 +0530] "GET /formSubmitted?usrName=Azhar HTTP/1.1" 200 60 http-bio-8080-exec-2 493
+127.0.0.1 - - [17/May/2021:04:52:18 +0530] "GET /formSubmitted HTTP/1.1" 400 1136 http-bio-8080-exec-3 13
+127.0.0.1 - - [17/May/2021:04:52:26 +0530] "GET /formSubmitted?usrName=Azharrr HTTP/1.1" 200 62 http-bio-8080-exec-4 8
